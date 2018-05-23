@@ -1,6 +1,6 @@
 # 폴더 정리 설명용
 
-## [수강신청](https://www.codeground.org/practice/practiceProblemViewNew
+### [수강신청](https://www.codeground.org/practice/practiceProblemViewNew
 
 **삼성대학교의 마지막 학기를 앞둔 성삼이는 이번 학기에 최대한 많은 수업을 듣고 싶어한다.
 하지만 삼성대학교에는 한 학기에 이수 할 수 있는 최대 학점인 M이 정해져 있다.
