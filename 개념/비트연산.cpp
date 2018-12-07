@@ -2,6 +2,8 @@
 #include<vector>
 #include<bitset>
 
+// 1206
+
 using namespace std;
 //N을 입력받고 비트마스크를 출력
 int main() {
